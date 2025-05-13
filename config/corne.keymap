@@ -10,6 +10,20 @@
 #include <dt-bindings/zmk/pointing.h>
 
 / {
+    combos {
+        compatible = "zmk,combos";
+
+        nav_layer_combo_left {
+            bindings = <&sl 3>;
+            key-positions = <16 15>;
+        };
+
+        nav_layer_combo_right {
+            bindings = <&sl 3>;
+            key-positions = <19 20>;
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
