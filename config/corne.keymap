@@ -27,6 +27,11 @@
             bindings = <&tog 4>;
             key-positions = <37 40>;
         };
+
+        quick_switch_workspace {
+            bindings = <&kp LA(GRAVE)>;
+            key-positions = <17 16 15>;
+        };
     };
 
     keymap {
