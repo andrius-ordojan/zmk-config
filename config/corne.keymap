@@ -15,22 +15,17 @@
 
         nav_layer_combo_left {
             bindings = <&sl 3>;
-            key-positions = <16 15>;
+            key-positions = <16 15 17>;
         };
 
         nav_layer_combo_right {
             bindings = <&sl 3>;
-            key-positions = <19 20>;
+            key-positions = <19 20 18>;
         };
 
         mouse_layer {
             bindings = <&tog 4>;
             key-positions = <37 40>;
-        };
-
-        quick_switch_workspace {
-            bindings = <&kp LA(GRAVE)>;
-            key-positions = <17 16 15>;
         };
     };
 
