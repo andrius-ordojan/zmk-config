@@ -25,7 +25,7 @@
 
         mouse_layer {
             bindings = <&tog 4>;
-            key-positions = <40 41>;
+            key-positions = <30 31>;
         };
 
         recent_workspace {
