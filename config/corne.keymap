@@ -15,7 +15,7 @@
 
         mouse_layer {
             bindings = <&tog 4>;
-            key-positions = <11 23>;
+            key-positions = <11 35>;
         };
     };
 
