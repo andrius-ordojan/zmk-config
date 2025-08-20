@@ -17,16 +17,6 @@
             bindings = <&tog 4>;
             key-positions = <11 35>;
         };
-
-        copy {
-            bindings = <&kp LC(C)>;
-            key-positions = <14 27>;
-        };
-
-        paste {
-            bindings = <&kp LC(V)>;
-            key-positions = <15 28>;
-        };
     };
 
     keymap {
