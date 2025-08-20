@@ -88,7 +88,7 @@
         copy-paste {
             bindings = <
 &trans  &trans  &trans     &trans     &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans     &trans     &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &kp LG(C)  &kp LG(V)  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &kp LC(C)  &kp LC(V)  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
                            &trans     &trans  &trans    &trans  &trans  &trans
             >;
