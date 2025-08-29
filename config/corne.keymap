@@ -18,6 +18,15 @@
         };
     };
 
+    macros {
+        penis: penis {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp COLON &kp EQUAL>;
+            label = "PENIS";
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
